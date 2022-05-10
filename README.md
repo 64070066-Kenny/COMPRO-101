@@ -1,1 +1,1 @@
-# COMPRO-101
+# EZ QUIZ GAME
